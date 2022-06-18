@@ -1,5 +1,5 @@
 # Reto Final Puzzlebot
-Implementación de Robótica inteligente
+<i>Implementación de Robótica inteligente</i>
 #### Equipo 3:
 #### Noemi Carolina Guerra Montiel A00826944 
 #### Maria Fernanda Hernandez Montes A01704918 
