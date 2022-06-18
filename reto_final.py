@@ -162,16 +162,17 @@ class image_converter:
     cv2.rectangle(opening_green, (xG, yG), (xG + wG, yG + hG), (139,0,0), 4)
     
     #Notificar cuando se encuentra un color en cierto rango de distancia
-    #Ancho del rectangulo rojo
+    #Rango del ancho del rectangulo rojo
     if(wR > 5) and (wR<500):
       self.semafo = "Rojo"
       print(self.semafo)
 
-    #Ancho del rectangulo verde
+    #Rango del ancho del rectangulo verde
     elif(wG > 100) and (wG<500):
       self.semafo = "Verde"
       print(self.semafo)
       
+    # Si no se encuentra ningún color
     else:
       self.semafo = "X"
       #print(self.semafo)
