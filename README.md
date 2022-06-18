@@ -1,11 +1,28 @@
-# Equipo3 Reto_Final Puzzlebot
+# Reto Final Puzzlebot
+Implementación de Robótica inteligente
+#### Equipo 3:
 #### Noemi Carolina Guerra Montiel A00826944 
 #### Maria Fernanda Hernandez Montes A01704918 
 #### Mizael Beltran Romero A01114973 
 #### Izac Saul Salazar Flores A01197392
 
-Deteccion de linea, vision de semaforos, planeacion de ruta y detección de señales para el recorrido de una pista con un robot diferencial llamado "Puzzlebot".
+## Descripción del proyecto
+Recorrido de una pista para un robot diferencial llamado "Puzzlebot".
 
+## Tabla de Contenidos
+* Deteccion de linea 
+* Vision de semaforos 
+* Planeacion de ruta 
+* Detección de señales 
+
+## Tecnología
+* Sistema operativo Ubuntu 18.04
+* Ros
+* Python
+* OpenCV
+* Yolo
+
+## Setup
 Para su uso, se tiene el nodo precargado dentro de la Jetson Nano para mejorar el rendimiento y el tiempo de ejecución. La instrucción para empezar el nodo del archivo reto_final.py es:
 
 ```
