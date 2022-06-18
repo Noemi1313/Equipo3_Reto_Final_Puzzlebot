@@ -10,9 +10,9 @@
 Recorrido de una pista para un robot diferencial llamado "Puzzlebot".
 
 ## Tabla de Contenidos
-* Deteccion de linea 
-* Vision de semaforos 
-* Planeacion de ruta 
+* Seguimiento de linea 
+* Visión de semaforos 
+* Planeación de ruta 
 * Detección de señales 
 
 ## Tecnología
